@@ -1,7 +1,7 @@
 # Cover Sheet
 
-- **Name:** Muhammad Mohib
-- **ERP:** 36090
+- **Name:** Muhammad saad noor
+- **ERP:** 37179
 - **Class code:** 101446
 - **Course:** Introduction To Computer Applications
 
